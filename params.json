@@ -1,0 +1,6 @@
+{
+  "name": "National Oceanic and Atmospheric Administration's (NOAA) Storm Analysis ",
+  "tagline": "U.S. National Oceanic and Atmospheric Administration (NOAA) Storm Analysis ",
+  "body": "NOAA Storm Analysis\r\n============================\r\n\r\nU.S. National Oceanic and Atmospheric Administration's (NOAA) Storm Database Analysis \r\n\r\nStorms and other severe weather events can cause both public health and economic problems for communities and municipalities. Many severe events can result in fatalities, injuries and property damage. Preventing the outcome from these event as much as possible is a key concern.\r\n\r\nIn this report, we analyze data from the U.S National Oceanic and Atmospheric Administration's (NOAA) Storm database to investigate which weather events are most harmful.\r\n\r\nBy the end of this analysis, you'll notice that tornado is the worst weather event to threaten population health for both injuries and fatalities. Heat is second as far as its impact on fatalities is concerned and thunderstorm is second as far as injuries is concerned.\r\n\r\nIn regards to economic damage, the damage to property is higher than the damage to crops. Of all the weather events, flood by far, has the most severe economic impact. \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
